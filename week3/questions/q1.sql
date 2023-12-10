@@ -1,0 +1,3 @@
+-- employee 테이블에서 성(gender)가 'Female' 인 레코드의 나이(age), 직위(position)를 조회하는 SQL문을 작성하시오.
+-- 주의: 직위, 나이 이렇게 select하시면 안되고 문제에 제시된 칼럼 순서인 나이, 직위 순서로 select해야 합니다.(정렬을 의미하는게 아님)
+-- select position, age (오답), select age, position (정답)
